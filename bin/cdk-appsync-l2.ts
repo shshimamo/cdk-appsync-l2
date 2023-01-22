@@ -5,5 +5,5 @@ import { CdkAppsyncL2Stack } from '../lib/cdk-appsync-l2-stack';
 
 const app = new cdk.App();
 new CdkAppsyncL2Stack(app, 'CdkAppsyncL2Stack', {
-    
+
 });
